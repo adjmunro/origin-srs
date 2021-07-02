@@ -1,0 +1,377 @@
+{
+  "One": {
+    "order": 0,
+    "deck": "test_heisig",
+    "value": "\u4e00",
+    "notes": "",
+    "tags": [
+      "#test_heisig",
+      "#heisig",
+      "#kanji",
+      "#number"
+    ],
+    "last_review": "datetime.datetime(9999, 12, 31, 23, 59, 59, 999999)",
+    "next_review": "datetime.datetime(9999, 12, 31, 23, 59, 59, 999999)",
+    "degree": -5
+  },
+  "Two": {
+    "order": 1,
+    "deck": "test_heisig",
+    "value": "\u4e8c",
+    "notes": "",
+    "tags": [
+      "#test_heisig",
+      "#heisig",
+      "#kanji",
+      "#number"
+    ],
+    "last_review": "datetime.datetime(9999, 12, 31, 23, 59, 59, 999999)",
+    "next_review": "datetime.datetime(9999, 12, 31, 23, 59, 59, 999999)",
+    "degree": -5
+  },
+  "Three": {
+    "order": 2,
+    "deck": "test_heisig",
+    "value": "\u4e09",
+    "notes": "",
+    "tags": [
+      "#test_heisig",
+      "#heisig",
+      "#kanji",
+      "#number"
+    ],
+    "last_review": "datetime.datetime(9999, 12, 31, 23, 59, 59, 999999)",
+    "next_review": "datetime.datetime(9999, 12, 31, 23, 59, 59, 999999)",
+    "degree": -5
+  },
+  "Four": {
+    "order": 3,
+    "deck": "test_heisig",
+    "value": "\u56db",
+    "notes": "",
+    "tags": [
+      "#test_heisig",
+      "#heisig",
+      "#kanji",
+      "#number"
+    ],
+    "last_review": "datetime.datetime(9999, 12, 31, 23, 59, 59, 999999)",
+    "next_review": "datetime.datetime(9999, 12, 31, 23, 59, 59, 999999)",
+    "degree": -5
+  },
+  "Five": {
+    "order": 4,
+    "deck": "test_heisig",
+    "value": "\u4e94",
+    "notes": "",
+    "tags": [
+      "#test_heisig",
+      "#heisig",
+      "#kanji",
+      "#number"
+    ],
+    "last_review": "datetime.datetime(9999, 12, 31, 23, 59, 59, 999999)",
+    "next_review": "datetime.datetime(9999, 12, 31, 23, 59, 59, 999999)",
+    "degree": -5
+  },
+  "Six": {
+    "order": 5,
+    "deck": "test_heisig",
+    "value": "\u516d",
+    "notes": "",
+    "tags": [
+      "#test_heisig",
+      "#heisig",
+      "#kanji",
+      "#number"
+    ],
+    "last_review": "datetime.datetime(9999, 12, 31, 23, 59, 59, 999999)",
+    "next_review": "datetime.datetime(9999, 12, 31, 23, 59, 59, 999999)",
+    "degree": -5
+  },
+  "Seven": {
+    "order": 6,
+    "deck": "test_heisig",
+    "value": "\u4e03",
+    "notes": "",
+    "tags": [
+      "#test_heisig",
+      "#heisig",
+      "#kanji",
+      "#number"
+    ],
+    "last_review": "datetime.datetime(9999, 12, 31, 23, 59, 59, 999999)",
+    "next_review": "datetime.datetime(9999, 12, 31, 23, 59, 59, 999999)",
+    "degree": -5
+  },
+  "Eight": {
+    "order": 7,
+    "deck": "test_heisig",
+    "value": "\u516b",
+    "notes": "",
+    "tags": [
+      "#test_heisig",
+      "#heisig",
+      "#kanji",
+      "#number"
+    ],
+    "last_review": "datetime.datetime(9999, 12, 31, 23, 59, 59, 999999)",
+    "next_review": "datetime.datetime(9999, 12, 31, 23, 59, 59, 999999)",
+    "degree": -5
+  },
+  "Nine": {
+    "order": 8,
+    "deck": "test_heisig",
+    "value": "\u4e5d",
+    "notes": "",
+    "tags": [
+      "#test_heisig",
+      "#heisig",
+      "#kanji",
+      "#number"
+    ],
+    "last_review": "datetime.datetime(9999, 12, 31, 23, 59, 59, 999999)",
+    "next_review": "datetime.datetime(9999, 12, 31, 23, 59, 59, 999999)",
+    "degree": -5
+  },
+  "Ten": {
+    "order": 9,
+    "deck": "test_heisig",
+    "value": "\u5341",
+    "notes": "",
+    "tags": [
+      "#test_heisig",
+      "#heisig",
+      "#kanji",
+      "#number"
+    ],
+    "last_review": "datetime.datetime(9999, 12, 31, 23, 59, 59, 999999)",
+    "next_review": "datetime.datetime(9999, 12, 31, 23, 59, 59, 999999)",
+    "degree": -5
+  },
+  "Moon": {
+    "order": 10,
+    "deck": "test_heisig",
+    "value": "\u6708",
+    "notes": "",
+    "tags": [
+      "#test_heisig",
+      "#heisig",
+      "#kanji",
+      "#element"
+    ],
+    "last_review": "datetime.datetime(9999, 12, 31, 23, 59, 59, 999999)",
+    "next_review": "datetime.datetime(9999, 12, 31, 23, 59, 59, 999999)",
+    "degree": -5
+  },
+  "Fire": {
+    "order": 11,
+    "deck": "test_heisig",
+    "value": "\u706b",
+    "notes": "",
+    "tags": [
+      "#test_heisig",
+      "#heisig",
+      "#kanji",
+      "#element"
+    ],
+    "last_review": "datetime.datetime(9999, 12, 31, 23, 59, 59, 999999)",
+    "next_review": "datetime.datetime(9999, 12, 31, 23, 59, 59, 999999)",
+    "degree": -5
+  },
+  "Water": {
+    "order": 12,
+    "deck": "test_heisig",
+    "value": "\u6c34",
+    "notes": "",
+    "tags": [
+      "#test_heisig",
+      "#heisig",
+      "#kanji",
+      "#element"
+    ],
+    "last_review": "datetime.datetime(9999, 12, 31, 23, 59, 59, 999999)",
+    "next_review": "datetime.datetime(9999, 12, 31, 23, 59, 59, 999999)",
+    "degree": -5
+  },
+  "Tree": {
+    "order": 13,
+    "deck": "test_heisig",
+    "value": "\u6728",
+    "notes": "",
+    "tags": [
+      "#test_heisig",
+      "#heisig",
+      "#kanji",
+      "#element"
+    ],
+    "last_review": "datetime.datetime(9999, 12, 31, 23, 59, 59, 999999)",
+    "next_review": "datetime.datetime(9999, 12, 31, 23, 59, 59, 999999)",
+    "degree": -5
+  },
+  "Gold": {
+    "order": 14,
+    "deck": "test_heisig",
+    "value": "\u91d1",
+    "notes": "",
+    "tags": [
+      "#test_heisig",
+      "#heisig",
+      "#kanji",
+      "#element"
+    ],
+    "last_review": "datetime.datetime(9999, 12, 31, 23, 59, 59, 999999)",
+    "next_review": "datetime.datetime(9999, 12, 31, 23, 59, 59, 999999)",
+    "degree": -5
+  },
+  "Earth": {
+    "order": 15,
+    "deck": "test_heisig",
+    "value": "\u571f",
+    "notes": "",
+    "tags": [
+      "#test_heisig",
+      "#heisig",
+      "#kanji",
+      "#element"
+    ],
+    "last_review": "datetime.datetime(9999, 12, 31, 23, 59, 59, 999999)",
+    "next_review": "datetime.datetime(9999, 12, 31, 23, 59, 59, 999999)",
+    "degree": -5
+  },
+  "Sun": {
+    "order": 16,
+    "deck": "test_heisig",
+    "value": "\u65e5",
+    "notes": "",
+    "tags": [
+      "#test_heisig",
+      "#heisig",
+      "#kanji",
+      "#element"
+    ],
+    "last_review": "datetime.datetime(9999, 12, 31, 23, 59, 59, 999999)",
+    "next_review": "datetime.datetime(9999, 12, 31, 23, 59, 59, 999999)",
+    "degree": -5
+  },
+  "\u6708\u66dc\u65e5": {
+    "order": 17,
+    "deck": "test_words",
+    "value": "Monday",
+    "notes": "\u3052\u3064\u3088\u3046\u3073",
+    "tags": [
+      "#test_words",
+      "#weekdays"
+    ],
+    "last_review": "datetime.datetime(9999, 12, 31, 23, 59, 59, 999999)",
+    "next_review": "datetime.datetime(9999, 12, 31, 23, 59, 59, 999999)",
+    "degree": -5
+  },
+  "\u706b\u66dc\u65e5": {
+    "order": 18,
+    "deck": "test_words",
+    "value": "Tuesday",
+    "notes": "\u304b\u3088\u3046\u3073",
+    "tags": [
+      "#test_words",
+      "#weekdays",
+      "#ka"
+    ],
+    "last_review": "datetime.datetime(9999, 12, 31, 23, 59, 59, 999999)",
+    "next_review": "datetime.datetime(9999, 12, 31, 23, 59, 59, 999999)",
+    "degree": -5
+  },
+  "\u6c34\u66dc\u65e5": {
+    "order": 19,
+    "deck": "test_words",
+    "value": "Wednesday",
+    "notes": "\u3059\u3044\u3088\u3046\u3073",
+    "tags": [
+      "#test_words",
+      "#weekdays"
+    ],
+    "last_review": "datetime.datetime(9999, 12, 31, 23, 59, 59, 999999)",
+    "next_review": "datetime.datetime(9999, 12, 31, 23, 59, 59, 999999)",
+    "degree": -5
+  },
+  "\u6728\u66dc\u65e5": {
+    "order": 20,
+    "deck": "test_words",
+    "value": "Thursday",
+    "notes": "\u3082\u304f\u3088\u3046\u3073",
+    "tags": [
+      "#test_words",
+      "#weekdays"
+    ],
+    "last_review": "datetime.datetime(9999, 12, 31, 23, 59, 59, 999999)",
+    "next_review": "datetime.datetime(9999, 12, 31, 23, 59, 59, 999999)",
+    "degree": -5
+  },
+  "\u91d1\u66dc\u65e5": {
+    "order": 21,
+    "deck": "test_words",
+    "value": "Friday",
+    "notes": "\u304d\u3093\u3088\u3046\u3073",
+    "tags": [
+      "#test_words",
+      "#weekdays"
+    ],
+    "last_review": "datetime.datetime(9999, 12, 31, 23, 59, 59, 999999)",
+    "next_review": "datetime.datetime(9999, 12, 31, 23, 59, 59, 999999)",
+    "degree": -5
+  },
+  "\u571f\u66dc\u65e5": {
+    "order": 22,
+    "deck": "test_words",
+    "value": "Saturday",
+    "notes": "\u3069\u3088\u3046\u3073",
+    "tags": [
+      "#test_words",
+      "#weekdays"
+    ],
+    "last_review": "datetime.datetime(9999, 12, 31, 23, 59, 59, 999999)",
+    "next_review": "datetime.datetime(9999, 12, 31, 23, 59, 59, 999999)",
+    "degree": -5
+  },
+  "\u65e5\u66dc\u65e5": {
+    "order": 23,
+    "deck": "test_words",
+    "value": "Sunday",
+    "notes": "\u306b\u3061\u3088\u3046\u3073",
+    "tags": [
+      "#test_words",
+      "#weekdays"
+    ],
+    "last_review": "datetime.datetime(9999, 12, 31, 23, 59, 59, 999999)",
+    "next_review": "datetime.datetime(9999, 12, 31, 23, 59, 59, 999999)",
+    "degree": -5
+  },
+  "\u30ab\u30bf\u30ab\u30ca": {
+    "order": 24,
+    "deck": "test_words",
+    "value": "Katakana",
+    "notes": "",
+    "tags": [
+      "#test_words",
+      "#katakana",
+      "#ka"
+    ],
+    "last_review": "datetime.datetime(9999, 12, 31, 23, 59, 59, 999999)",
+    "next_review": "datetime.datetime(9999, 12, 31, 23, 59, 59, 999999)",
+    "degree": -5
+  },
+  "\u30c9\u30ad\u30c9\u30ad\u3059\u308b": {
+    "order": 25,
+    "deck": "test_words",
+    "value": "Heart Throbbing",
+    "notes": "",
+    "tags": [
+      "#test_words",
+      "#verb",
+      "#katakana"
+    ],
+    "last_review": "datetime.datetime(9999, 12, 31, 23, 59, 59, 999999)",
+    "next_review": "datetime.datetime(9999, 12, 31, 23, 59, 59, 999999)",
+    "degree": -5
+  }
+}

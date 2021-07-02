@@ -1,0 +1,20 @@
+うっとりする,spellbound; enrapturedly,#onomatopoeia,#adverb
+すっきりする,relieved; refreshingly,#onomatopoeia,#adverb
+いらいらする,irritated; annoyingly,#onomatopoeia,#adverb
+うんざりする,tedious; boringly; fed up with; sick of,#onomatopoeia,#adverb
+むかむかする,being angry/offended/disgusted; feeling nauseated,#onomatopoeia,#adverb
+どきどきする,to throb; beating of one's heart,#onomatopoeia,#adverb
+かっかする,be upset; get mad; burn redly/hotly (such as being embarressed?),#onomatopoeia,#adverb
+うきうきする,cheerfully; happily,#onomatopoeia,#adverb
+わくわくする,trembling; nervously; excitedly,#onomatopoeia,#adverb
+はっとする,suddenly; surprisingly; excitedly,#onomatopoeia,#adverb
+ぎょっとする,being startled,#onomatopoeia,#adverb
+おどおどする,timidly; nervously; hesitantly,#onomatopoeia,#adverb
+びくびくする,being afraid of; trembling; shivering,#onomatopoeia,#adverb
+はらはらする,anxiously; kept in suspense; thrilled,#onomatopoeia,#adverb
+ほっとする,with a feeling of relief; deeply (sigh),#onomatopoeia,#adverb
+ぼんやりする,vaguely; dimly; faintly; indistinctly; absentmindedly,#onomatopoeia,#adverb
+ぼおっとする,absentmindedly; in a daze; zoned out,#onomatopoeia,#adverb
+うっかりする,carelessly; thoughtlessly; inadvertently,#onomatopoeia,#adverb
+くよくよする,to fret; worriedly; broodingly,#onomatopoeia,#adverb
+がっかりする,be disappointed; downhearted; drained; let down,#onomatopoeia,#adverb

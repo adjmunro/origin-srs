@@ -1,0 +1,26 @@
+暗い人,gloomy despondent person (same as 陰気な人),#personalities
+明るい人,bright bubbly person (same as 陽気な人),#personalities
+温かい人,affable warm-hearted person,#personalities
+冷たい人,callous cold-hearted person,#personalities
+陽気な人,bright bubbly person (same as 明るい人),#personalities
+短気な人,impatient short-tempered person,#personalities
+正直な人,candid frank honest person,#personalities
+陰気な人,gloomy despondent person (same as 暗い人),#personalities
+慎重な人,cautious prudent person,#personalities
+軽率な人,rash hasty imprudent person,#personalities
+真面目な人,earnest serious person; doing as told/expected in earnest,#personalities
+呑気な人,calm person; in control of the situation,#personalities
+気が強い人,strong spirited person; steadfast beliefs,#personalities
+気が弱い人,weak spirited person; pushover; wishy-washy,#personalities
+消極的な人,passive person; unmotivated; not wanting to be/get involved,#personalities
+無責任な人,person who evades responsibility;  "it's not my fault/problem",#personalities
+積極的な人,proactive assertive person; volunteers actively,#personalities
+我が儘な人,egoist; person who has a strong image of themselves,#personalities
+不真面目な人,frivolous insincere person; not serious,#personalities
+嘘つきな人,lying person; liar,#personalities
+大人しい人,quiet docile person; reserved; person who doesn't speak much,#personalities
+だらしない人,slovenly sloppy person; doesn't do think people usually do (chores/clothes etc),#personalities
+お喋りな人,chatterbox; blabbermouth; person who talks a lot,#personalities
+責任感が強い人,person who feels a sense of responsibility,#personalities
+几帳面な人,meticulous scrupulous person; pays attention to detail; OCD,#personalities
+思いやりがある人,thoughtful compassionate person; always cares about others,#personalities

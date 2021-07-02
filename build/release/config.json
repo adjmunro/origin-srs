@@ -1,0 +1,21 @@
+{
+  "min_degree": -5,
+  "max_degree": 10,
+  "new_card_limit": 10,
+  "review_card_limit": 15,
+  "intro_size": 5,
+  "sizes": [
+    5,
+    10,
+    20,
+    40
+  ],
+  "front_font_size": 48,
+  "back_font_size": 32,
+  "sub_font_size": 24,
+  "home_font_size": 18,
+  "font_face": "Times New Roman",
+  "fg": "white",
+  "fg_due": "green",
+  "fg_new": "blue"
+}

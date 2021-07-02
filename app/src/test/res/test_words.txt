@@ -1,0 +1,9 @@
+月曜日,monday,げつようび,#weekdays
+火曜日,tuesday,かようび,#weekdays,#ka
+水曜日,wednesday,すいようび,#weekdays
+木曜日,thursday,もくようび,#weekdays
+金曜日,friday,きんようび,#weekdays
+土曜日,saturday,どようび,#weekdays
+日曜日,sunday,にちようび,#weekdays
+カタカナ,katakana,#katakana,#ka
+ドキドキする,heart throbbing,,#verb,#katakana

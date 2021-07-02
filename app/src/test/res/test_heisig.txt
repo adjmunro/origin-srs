@@ -1,0 +1,17 @@
+one,一,#heisig,#kanji,#number
+two,二,#heisig,#kanji,#number
+three,三,#heisig,#kanji,#number
+four,四,#heisig,#kanji,#number
+five,五,#heisig,#kanji,#number
+six,六,#heisig,#kanji,#number
+seven,七,#heisig,#kanji,#number
+eight,八,#heisig,#kanji,#number
+nine,九,#heisig,#kanji,#number
+ten,十,#heisig,#kanji,#number
+moon,月,#heisig,#kanji,#element
+fire,火,#heisig,#kanji,#element
+water,水,#heisig,#kanji,#element
+tree,木,#heisig,#kanji,#element
+gold,金,#heisig,#kanji,#element
+earth,土,#heisig,#kanji,#element
+sun,日,#heisig,#kanji,#element

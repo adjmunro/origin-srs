@@ -1,0 +1,17 @@
+[n.:person a]が[n.:a's state b]に嘆く,[a] laments [b]
+[n.:person a]がを[n.:event b]嘆く,[a] laments [b]
+[n.:person a]が[n.:uttered sentence b]と嘆く,[a] laments- saying [b]
+[n.:person or animal a]が[n.:direction b]を振り向く,[a] turns to [b]
+[n.:person a]が[n.:person b]に振り向く,[a] gets interested in [b] romantically
+[n.:person a]が[n.:situation b]を期待する,[a] hopes for [b]
+[n.:person a]が[n.:person b]に[action c]を期待する,[a] hopes [b] will do [c]
+[n.:person a]が[n.:person b]と出会う,[a] encounters or meets [b]
+[n.:person a]が[n.:person b]と付き合う,[a] dates [b]
+[n.:person a]が[n.:person b]に付き合う,[a] goes along with [b]
+[n.:person a]が[n.:problematic state b]と付き合う,[a] lives with [b]
+[n.:object a]が[n.:place b]に突入する,[a] crashes (or forcefully enters) into [b]
+[n.:activity or project a]が[n.:a's phase b]に突入する,[a] enters into [b]
+[n.:substance a]が冷める,[a] becomes lukewarm
+[n.:person's emotion a]が冷める,[a] becomes lukewarm
+[n.:person a]が[s.:sentence expressing a's thought b]と思い詰める,[a] torments themself thinking that [b]
+[n.:person a]が[n.:something b]で思い詰める,[a] torments themself because of [b]

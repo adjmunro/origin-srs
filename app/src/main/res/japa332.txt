@@ -1,0 +1,464 @@
+初恋,first love,はつこい,#reading_1-1,#segment_1
+片思い,one-sided love,かたおもい,#reading_1-1,#segment_1
+失恋,disappointed love,しつれん,#reading_1-1,#segment_1
+ラブレター,love letter,,#reading_1-1,#segment_1
+少女,girl (usually 7-18 y/o),しょうじょ,#reading_1-1,#segment_1
+過ごす,to pass (time); to spend,すごす,#reading_1-1,#segment_1
+乙女,maiden,おとめ,#reading_1-1,#segment_1
+夢見る,to dream (of),ゆめみる,#reading_1-1,#segment_1
+手に負える,handle; manage; control,てにおえる,#reading_1-1,#segment_1
+～ら,~ and others. etc.,,#reading_1-1,#segment_1,#suffix
+登下校,travelling to and from school,とうげこう,#reading_1-1,#segment_1
+実に,really; truely; surely,じつに,#reading_1-1,#segment_1
+水族館,aquarium,すいぞくかん,#reading_1-1,#segment_1
+水槽,water tank,すいそう,#reading_1-1,#segment_1
+グルグル,whir (round and round; in circles),,#reading_1-1,#segment_1,#onomatopoeia,#adverb
+鮪,tuna,まぐろ,#reading_1-1,#segment_1
+初期,early days; beginning (adj. early; initial; incipient),しょき,#reading_1-1,#segment_1
+芸能人,entertainer,げいのうじん,#reading_1-1,#segment_1
+熱を上げる,be enthusiastic; be crazy,ねつをあげる,#reading_1-1,#segment_1
+CM,commercial message,,#reading_1-1,#segment_1
+タレント,talent,,#reading_1-1,#segment_1
+若手,young ones,わかて,#reading_1-1,#segment_1
+お笑い,comical (story; song); comic,おわらい,#reading_1-1,#segment_1
+スター,star,,#reading_1-1,#segment_1
+分野,field; area,ぶんや,#reading_1-1,#segment_1
+次々と,one after another,つぎつぎと,#reading_1-1,#segment_1
+若しかしたら,perhaps; by any chance; possibly,もしかしたら,#reading_1-1,#segment_1
+若しも,if; in case of; provided,もしも,#reading_1-1,#segment_1
+本気で,seriously; in earnest (adj. serious; earnest),ほんきで,#reading_1-1,#segment_1
+ファンレター,fan letter,,#reading_1-1,#segment_1
+裏腹に,contrary to (adj. opposite; reverse),うらはらに,#reading_1-1,#segment_1
+商魂,commercial spirit; salesmanship,しょうこん,#reading_1-1,#segment_1
+逞しい,strong; powerful,たくましい,#reading_1-1,#segment_1
+ファンクラブ,fan club,,#reading_1-1,#segment_1
+案内状,invitation card; letter of invitation,あんないじょう,#reading_1-1,#segment_1
+太り始める,begin gaining weight,ふとりはじめる,#reading_1-1,#segment_1
+情熱,passion; enthusiasm; zeal (adj. passionate),じょうねつ,#reading_1-1,#segment_1
+冷める,cool down,さめる,#reading_1-1,#segment_1
+勝手に,freely; as one likes; selfishly,かってに,#reading_1-1,#segment_1
+作り上げる,make up; build up; draw up,つくりあげる,#reading_1-1,#segment_1
+第～,the ~ (prefix for forming ordinal numbers),だい～,#reading_1-1,#segment_1,#prefix
+～期,period; time; age; stage,～き,#reading_1-1,#segment_1,#suffix
+突入する,plunge into,とつにゅうする,#reading_1-1,#segment_1
+美化する,beautify; idealise,びかする,#reading_1-1,#segment_1
+素敵,beautiful; superb; splendid,すてき,#reading_1-1,#segment_1
+顔立ち,one's features; face,かおだち,#reading_1-1,#segment_1
+誠実,good faith (adj. reliable; faithful),せいじつ,#reading_1-1,#segment_1
+その上,besides; in addition; moreover,そのうえ,#reading_1-1,#segment_1
+お金持ち,rich person; wealthy person (adj. rich; wealthy),おかねもち,#reading_1-1,#segment_1
+現実に,actually; in reality,げんじつに,#reading_1-1,#segment_1
+絶対,absolutely; never,ぜったい,#reading_1-1,#segment_1
+空想,imagination; fancy (v. fancy; day-dream; imagine),くうそう,#reading_1-1,#segment_1
+家柄,family's social standing; lineage; birth,いえがら,#reading_1-1,#segment_1
+すり替える,replace; secretly change,すりかえる,#reading_1-1,#segment_1
+良家,good family; decent family,りょうけ,#reading_1-1,#segment_1
+設定,establish; set up,せってい,#reading_1-1,#segment_1
+お洒落,smartly dressed; dressed up; stylish; fashion-conscious,おしゃれ,#reading_1-1,#segment_1
+黄昏時,at twilight; at dusk,たそがれとき,#reading_1-1,#segment_1
+窓辺,by the window,まどべ,#reading_1-1,#segment_1
+間もなく,soon; shortly; in a little while,かんもなく,#reading_1-1,#segment_1
+兎に角,at any rate; anyway,とにかく,#reading_1-1,#segment_1
+幻,illusion; version (adj. dreamlike; phantom),まぼろし,#reading_1-1,#segment_1
+スーパーカー,super car,,#reading_1-1,#segment_1
+日記帳,diary,にっきちょう,#reading_1-1,#segment_1
+つけ始める,begin writing; begin keeping,つけはじめる,#reading_1-1,#segment_1
+震撼する,shake; shock,しんかんする,#reading_1-1,#segment_1
+馬鹿,fool; idiot; moron,ばか,#reading_1-1,#segment_1
+もん,thing,,#reading_1-1,#segment_1
+カラーイラスト,colour illustration,,#reading_1-1,#segment_1
+書き続ける,keep writing,かきつづける,#reading_1-1,#segment_1
+当時,at that time; in those days; then,とうじ,#reading_1-1,#segment_1
+胸,heart; chest; breasts; feelings,むね,#reading_1-1,#segment_1
+いそいそと,delightedly; joyfully,,#reading_1-1,#segment_1,#onomatopoeia,#adverb
+隣町,neighbouring town; adjacent town,となりまち,#reading_1-1,#segment_1
+進学校,cram high school,しんがくこう,#reading_1-1,#segment_1
+男子,youth; young man; boy,だんし,#reading_1-1,#segment_1
+生徒,student; pupil; schoolchild,せいと,#reading_1-1,#segment_1
+熱烈,passion (adj. passionate; ardent; fervent),ねつれつ,#reading_1-1,#segment_1
+抜ける,to be gone; come out; fall out,ぬける,#reading_1-1,#segment_1
+ばったりと,with a flop,,#reading_1-1,#segment_1,#onomatopoeia,#adverb
+クラッと,dizzyingly; in a wobbling manner,,#reading_1-1,#segment_1,#onomatopoeia,#adverb
+目眩,dizziness; giddiness,めまい,#reading_1-1,#segment_1
+通学,going to school,つうがく,#reading_1-1,#segment_1
+漫画,manga,まんが,#reading_1-1,#segment_1
+純情,pure heart; innocence,じゅんじょう,#reading_1-1,#segment_1
+真逆,surely not; by no means; certainly not; unlikely; something unexpected,まさか,#reading_1-1,#segment_1
+身の上,one's future; one's situation,みのうえ,#reading_1-1,#segment_1
+確実に,certainly; surely,かくじつに,#reading_1-1,#segment_1
+加熱する,heat up,かねつする,#reading_1-1,#segment_1
+早急,immediate; prompt; rapid,そうきゅう,#reading_1-1,#segment_1
+思い詰める,torment oneself with the thought; to be obsessed,おもいつめる,#reading_1-1,#segment_1
+嘆く,grieve; lament; sigh,なげく,#reading_1-1,#segment_1
+さめざめと,weep bitterly; cry one's heart out,,#reading_1-1,#segment_1,#onomatopoeia,#adverb
+思い込み,subjective impression; assumption; prejudice; biased; wrong impression,おもいこみ,#reading_1-1,#segment_1
+激しい,strong; violent; ardent,はげしい,#reading_1-1,#segment_1
+その内,soon; before long,そのない,#reading_1-1,#segment_1
+空想する,fancy; daydream; imagine,くうそうする,#reading_1-1,#segment_1
+悲しむ,feel sad (unhappy); sorrow,かなしむ,#reading_1-1,#segment_1
+酔う,be in an ecstasy of (happiness); be intoxicated with delight,よう,#reading_1-1,#segment_1
+活発,active; lively,かっぱつ,#reading_1-1,#segment_1
+行動する,act; behave; conduct oneself,こうどうする,#reading_1-1,#segment_1
+行動を執る,take action; act,こうどうをとる,#reading_1-1,#segment_1
+真剣,seriousness; earnestness (adj. serious; earnest),しんけん,#reading_1-1,#segment_1
+実る,have good results; actualise,みのる,#reading_1-1,#segment_1
+反省する,reflect on; think something over,はんせいする,#reading_1-1,#segment_1
+呆れる,be disgusted; be amazed; be shocked,あきれる,#reading_1-1,#segment_1
+懐かしい,longed-for; so dear to one's heart,なつかしい,#reading_1-1,#segment_1
+パス入れ,case for a season ticket,パスいれ,#reading_1-2,#segment_1
+恋物語,love story,こいものがたり,#reading_1-2,#segment_1
+等(名前）,hitoshi (guy's name),ひとし,#reading_1-2,#segment_1,#name
+鈴,bell,すず,#reading_1-2,#segment_1
+肌身離さず,(carrying) close to one's skin,はだみはなさず,#reading_1-2,#segment_1
+持ち歩く,to carry around,もちあるく,#reading_1-2,#segment_1
+何の気なしに,unintentionally; quite accidentally,なんのきなしに,#reading_1-2,#segment_1
+運命,fate; destiny,うんめい,#reading_1-2,#segment_1
+高校,high school,こうこう,#reading_1-2,#segment_1
+～年,~ year,～ねん,#reading_1-2,#segment_1,#suffix
+修学旅行,school excursion,しゅうがくりょこう,#reading_1-2,#segment_1
+別々の,different; separate,べつべつの,#reading_1-2,#segment_1
+委員,member of a committee,いいん,#reading_1-2,#segment_1
+知り合う,get to know each other; get acquainted with ~,しりあう,#reading_1-2,#segment_1
+本番,actual; real,ほんばん,#reading_1-2,#segment_1
+～毎に,each ~; every ~,～ごとに,#reading_1-2,#segment_1,#suffix
+逆の,opposite; reverse,ぎゃくの,#reading_1-2,#segment_1
+コース,course,,#reading_1-2,#segment_1
+巫山戯る,play with; jest; joke,ふざける,#reading_1-2,#segment_1
+別れ,parting; separation,わかれ,#reading_1-2,#segment_1
+惜しむ,be unwilling to; be reluctant to; regret,おしむ,#reading_1-2,#segment_1
+握手する,shake hands,あくしゅする,#reading_1-2,#segment_1
+制服,uniform (clothing),せいふく,#reading_1-2,#segment_1
+不図,suddenly; unexpectedly,ふと,#reading_1-2,#segment_1
+餞別,farewell gift,せんべつ,#reading_1-2,#segment_1
+無造作に,casually; easily,むぞうさに,#reading_1-2,#segment_1
+手の平,palm of the hand,てのひら,#reading_1-2,#segment_1
+ハンカチ,handkerchief,,#reading_1-2,#segment_1
+包む,to wrap,つつむ,#reading_1-2,#segment_1
+年頃,the age; apparent age; age of maturity,としごろ,#reading_1-2,#segment_1
+不似合い,unlike; unexpected,ふにあい,#reading_1-2,#segment_1
+通う,communicate with; evoke a sympathetic response from somebody,かよう,#reading_1-2,#segment_1
+旅,trip; tour,たび,#reading_1-2,#segment_1
+気に掛ける,feel uneasy about; be worried about; be on one's mind,きにかける,#reading_1-2,#segment_1
+日々,every day; day by day,ひび,#reading_1-2,#segment_1
+別れ際,at parting; at separation; at farewell,わかれぎわ,#reading_1-2,#segment_1
+物語,story; narrative,ものがたり,#reading_1-2,#segment_1
+到頭,finally; at last; in the end,とうとう,#reading_1-2,#segment_1
+大喧嘩,big fight; huge quarrel,おおげんか,#reading_1-2,#segment_1
+大恋愛,passionate love,だいれんあい,#reading_1-2,#segment_1
+単調,monotony (adj. monotonous; dull; flat),たんちょう,#reading_1-2,#segment_1
+側,near; close; beside,そば,#reading_1-2,#segment_1
+～側,side (of ~),がわ,#segment_1,#suffix
+渡す,to ferry across; carry across; to hand over; to pass,わたす,#reading_1-2,#segment_1
+決して,(not) ever; (not) by any means; (not) in the least; (not) in any way; [not if neg],けっして,#reading_1-2,#segment_1
+[n.:person a]が[n.:a's state b]に嘆く,[a] laments [b],[n.:person a]が[n.:a's state b]になげく,#verbs_1,#segment_1
+[n.:person a]が[n.:event b]を嘆く,[a] laments [b],[n.:person a]が[n.:event b]をなげく,#verbs_1,#segment_1
+[n.:person a]が[n.:uttered sentence b]と嘆く,[a] laments- saying [b],[n.:person a]が[n.:uttered sentence b]となげく,#verbs_1,#segment_1
+[n.:person or animal a]が[n.:direction b]を振り向く,[a] turns to [b],[n.:person or animal a]が[n.:direction b]をふりむく,#verbs_1,#segment_1
+[n.:person a]が[n.:person b]に振り向く,[a] gets interested in [b] romantically,[n.:person a]が[n.:person b]にふりむく,#verbs_1,#segment_1
+[n.:person a]が[n.:situation b]を期待する,[a] hopes for [b],[n.:person a]が[n.:situation b]をきたいする,#verbs_1,#segment_1
+[n.:person a]が[n.:person b]に[action c]を期待する,[a] hopes [b] will do [c],[n.:person a]が[n.:person b]に[action c]をきたいする,#verbs_1,#segment_1
+[n.:person a]が[n.:person b]と出会う,[a] encounters or meets [b],[n.:person a]が[n.:person b]とであう,#verbs_1,#segment_1
+[n.:person a]が[n.:person b]と付き合う,[a] dates [b],[n.:person a]が[n.:person b]とつきあう,#verbs_1,#segment_1
+[n.:person a]が[n.:person b]に付き合う,[a] goes along with [b],[n.:person a]が[n.:person b]につきあう,#verbs_1,#segment_1
+[n.:person a]が[n.:problematic state b]と付き合う,[a] lives with [b],[n.:person a]が[n.:problematic state b]とつきあう,#verbs_1,#segment_1
+[n.:object a]が[n.:place b]に突入する,[a] crashes (or forcefully enters) into [b],[n.:object a]が[n.:place b]にとつにゅうする,#verbs_1,#segment_1
+[n.:activity or project a]が[n.:a's phase b]に突入する,[a] enters into [b],[n.:activity or project a]が[n.:a's phase b]にとつにゅうする,#verbs_1,#segment_1
+[n.:substance a]が冷める,[a] becomes lukewarm,[n.:substance a]がさめる,#verbs_1,#segment_1
+[n.:person's emotion a]が冷める,[a] becomes lukewarm,[n.:person's emotion a]がさめる,#verbs_1,#segment_1
+[n.:person a]が[s.:sentence expressing a's thought b]と思い詰める,[a] torments themself thinking that [b],[n.:person a]が[s.:sentence expressing a's thought b]とおもいつめる,#verbs_1,#segment_1
+[n.:person a]が[n.:something b]で思い詰める,[a] torments themself because of [b],[n.:person a]が[n.:something b]でおもいつめる,#verbs_1,#segment_1
+うっとりする,spellbound; enrapturedly,,#onomatopoeia,#adverb,#segment_1
+すっきりする,relieved; refreshingly,,#onomatopoeia,#adverb,#segment_1
+いらいらする,irritated; annoyingly,,#onomatopoeia,#adverb,#segment_1
+うんざりする,tedious; boringly; fed up with; sick of,,#onomatopoeia,#adverb,#segment_1
+むかむかする,being angry/offended/disgusted; feeling nauseated,,#onomatopoeia,#adverb,#segment_1
+どきどきする,to throb; beating of one's heart,,#onomatopoeia,#adverb,#segment_1
+かっかする,be upset; get mad; burn redly/hotly (such as being embarressed?),,#onomatopoeia,#adverb,#segment_1
+うきうきする,cheerfully; happily,,#onomatopoeia,#adverb,#segment_1
+わくわくする,trembling; nervously; excitedly,,#onomatopoeia,#adverb,#segment_1
+はっとする,suddenly; surprisingly; excitedly,,#onomatopoeia,#adverb,#segment_1
+ぎょっとする,being startled,,#onomatopoeia,#adverb,#segment_1
+おどおどする,timidly; nervously; hesitantly,,#onomatopoeia,#adverb,#segment_1
+びくびくする,being afraid of; trembling; shivering,,#onomatopoeia,#adverb,#segment_1
+はらはらする,anxiously; kept in suspense; thrilled,,#onomatopoeia,#adverb,#segment_1
+ほっとする,with a feeling of relief; deeply (sigh),,#onomatopoeia,#adverb,#segment_1
+ぼんやりする,vaguely; dimly; faintly; indistinctly; absentmindedly,,#onomatopoeia,#adverb,#segment_1
+ぼーっとする,absentmindedly; in a daze; zoned out,,#onomatopoeia,#adverb,#segment_1,#reading_1-1
+うっかりする,carelessly; thoughtlessly; inadvertently,,#onomatopoeia,#adverb,#segment_1
+くよくよする,to fret; worriedly; broodingly,,#onomatopoeia,#adverb,#segment_1
+がっかりする,be disappointed; downhearted; drained; let down,,#onomatopoeia,#adverb,#segment_1
+暗い人,gloomy despondent person (same as 陰気な人),くらいひと,#personalities,#segment_1
+明るい人,bright bubbly person (same as 陽気な人),あかるいひと,#personalities,#segment_1
+温かい人,affable warm-hearted person,あたたかいひと,#personalities,#segment_1
+冷たい人,callous cold-hearted person,つめたいひと,#personalities,#segment_1
+陽気な人,bright bubbly person (same as 明るい人),ようきなひと,#personalities,#segment_1
+短気な人,impatient short-tempered person,たんきなひと,#personalities,#segment_1
+正直な人,candid frank honest person,しょうじきなひと,#personalities,#segment_1
+陰気な人,gloomy despondent person (same as 暗い人),いんきなひと,#personalities,#segment_1
+慎重な人,cautious prudent person,しんちょうなひと,#personalities,#segment_1
+軽率な人,rash hasty imprudent person,けいそつなひと,#personalities,#segment_1
+真面目な人,earnest serious person; doing as told/expected in earnest,まじめなひと,#personalities,#segment_1
+呑気な人,calm person; in control of the situation,のんきなひと,#personalities,#segment_1
+気が強い人,strong spirited person; steadfast beliefs,きがつよいひと,#personalities,#segment_1
+気が弱い人,weak spirited person; pushover; wishy-washy,きがよわいひと,#personalities,#segment_1
+消極的な人,passive person; unmotivated; not wanting to be/get involved,しょうきょくてきなひと,#personalities,#segment_1
+無責任な人,person who evades responsibility;  "it's not my fault/problem",むせきにんなひと,#personalities,#segment_1
+積極的な人,proactive assertive person; volunteers actively,せっきょくてきなひと,#personalities,#segment_1
+我が儘な人,egoist; person who has a strong image of themselves,わがままなひと,#personalities,#segment_1
+不真面目な人,frivolous insincere person; not serious,ふまじめなひと,#personalities,#segment_1
+嘘つきな人,lying person; liar,うそつきなひと,#personalities,#segment_1
+大人しい人,quiet docile person; reserved; person who doesn't speak much,おとなしいひと,#personalities,#segment_1
+だらしない人,slovenly sloppy person; doesn't do think people usually do (chores/clothes etc),だらしないひと,#personalities,#segment_1
+お喋りな人,chatterbox; blabbermouth; person who talks a lot,おしゃべりなひと,#personalities,#segment_1
+責任感が強い人,person who feels a sense of responsibility,せきにんかんがつよいひと,#personalities,#segment_1
+几帳面な人,meticulous scrupulous person; pays attention to detail; OCD,きちょうめんなひと,#personalities,#segment_1
+思いやりがある人,thoughtful compassionate person; always cares about others,おもいやりがあるひと,#personalities,#segment_1
+（自・他）凍る,intransitive,（じ・ほか）こおる,#transitivity,#segment_1
+（自・他）凍らす,transitive,（じ・ほか）こおらす,#transitivity,#segment_1
+（自・他）溶ける,intransitive,（じ・ほか）とける,#transitivity,#segment_1
+（自・他）溶かす,transitive,（じ・ほか）とかす,#transitivity,#segment_1
+（自・他）浴びる,transitive,（じ・ほか）あびる,#transitivity,#segment_1
+（自・他）浴びせる,ditransitive,（じ・ほか）あびせる,#transitivity,#segment_1
+（自・他）見える,intransitive,（じ・ほか）みえる,#transitivity,#segment_1
+（自・他）見る,transitive,（じ・ほか）みる,#transitivity,#segment_1
+（自・他）見せる,ditransitive,（じ・ほか）みせる,#transitivity,#segment_1
+（自・他）冷える,intransitive,（じ・ほか）ひえる,#transitivity,#segment_1
+（自・他）冷やす,transitive,（じ・ほか）ひやす,#transitivity,#segment_1
+（自・他）温まる,intransitive,（じ・ほか）あたたまる,#transitivity,#segment_1
+（自・他）温める,transitive,（じ・ほか）あたためる,#transitivity,#segment_1
+（自・他）増える,intransitive,（じ・ほか）ふえる,#transitivity,#segment_1
+（自・他）増やす,transitive,（じ・ほか）ふやす,#transitivity,#segment_1
+（自・他）減る,intransitive,（じ・ほか）へる,#transitivity,#segment_1
+（自・他）減らす,transitive,（じ・ほか）へらす,#transitivity,#segment_1
+（自・他）開く,intransitive,あく,#transitivity,#segment_1
+（自・他）開ける,transitive,あける,#transitivity,#segment_1
+（自・他）集まる,intransitive,（じ・ほか）あつまる,#transitivity,#segment_1
+（自・他）集める,transitive,（じ・ほか）あつめる,#transitivity,#segment_1
+（自・他）割れる,intransitive,（じ・ほか）われる,#transitivity,#segment_1
+（自・他）割る,transitive,（じ・ほか）わる,#transitivity,#segment_1
+（自・他）残る,intransitive,（じ・ほか）のこる,#transitivity,#segment_1
+（自・他）残す,transitive,（じ・ほか）のこす,#transitivity,#segment_1
+（自・他）膨らむ,intransitive,（じ・ほか）ふくらむ,#transitivity,#segment_1
+（自・他）膨らます,transitive,（じ・ほか）ふくらます,#transitivity,#segment_1
+（自・他）縮む,intransitive,（じ・ほか）ちぢむ,#transitivity,#segment_1
+（自・他）縮める,transitive,（じ・ほか）ちぢめる,#transitivity,#segment_1
+（自・他）届く,intransitive,（じ・ほか）とどく,#transitivity,#segment_1
+（自・他）届ける,transitive,（じ・ほか）とどける,#transitivity,#segment_1
+（自・他）上がる,intransitive,（じ・ほか）あがる,#transitivity,#segment_1
+（自・他）上げる,transitive,（じ・ほか）あげる,#transitivity,#segment_1
+（自・他）取れる,intransitive,（じ・ほか）とれる,#transitivity,#segment_1
+（自・他）取る,transitive,（じ・ほか）とる,#transitivity,#segment_1
+（自・他）折れる,intransitive,（じ・ほか）おれる,#transitivity,#segment_1
+（自・他）折る,transitive,（じ・ほか）おる,#transitivity,#segment_1
+（自・他）戻る,intransitive,（じ・ほか）もどる,#transitivity,#segment_1
+（自・他）戻す,transitive,（じ・ほか）もどす,#transitivity,#segment_1
+（自・他）治る,intransitive,（じ・ほか）なおる,#transitivity,#segment_1
+（自・他）治す,transitive,（じ・ほか）なおす,#transitivity,#segment_1
+（自・他）刺さる,intransitive,（じ・ほか）ささる,#transitivity,#segment_1
+（自・他）刺す,transitive,（じ・ほか）さす,#transitivity,#segment_1
+（自・他）起きる,intransitive,（じ・ほか）おきる,#transitivity,#segment_1
+（自・他）起こす,transitive,（じ・ほか）おこす,#transitivity,#segment_1
+（自・他）乗る,intransitive,（じ・ほか）のる,#transitivity,#segment_1
+（自・他）乗せる,transitive,（じ・ほか）のせる,#transitivity,#segment_1
+（自・他）寝る,intransitive,（じ・ほか）ねる,#transitivity,#segment_1
+（自・他）寝かす,transitive,（じ・ほか）ねかす,#transitivity,#segment_1
+（自・他）消える,intransitive,（じ・ほか）きえる,#transitivity,#segment_1
+（自・他）消す,transitive,（じ・ほか）けす,#transitivity,#segment_1
+（自・他）聞こえる,intransitive,（じ・ほか）きこえる,#transitivity,#segment_1
+（自・他）聞く,transitive,（じ・ほか）きく,#transitivity,#segment_1
+（自・他）生まれる,intransitive,（じ・ほか）うまれる,#transitivity,#segment_1
+（自・他）生む,transitive,（じ・ほか）うむ,#transitivity,#segment_1
+YほどX｛もの・こと・Noun｝はない,Nothing is as X as Y,,#phrases,#phrases_1,#segment_1
+Xときたら、Y,As for X- Y (With negative feeling; used to complain "Oh come on! Do better!"),,#phrases,#phrases_1,#segment_1
+XをはじめYまで,From X even to Y,,#phrases,#phrases_1,#segment_1
+Xにわたり・Xにわたる,ranging over X; to range over X (X needs to have range),,#phrases,#phrases_1,#segment_1
+XてはY,To repeat the cycle of Xing and Ying,,#phrases,#phrases_1,#segment_1
+Xなんか、Y,X(considered to have little value)- Y,,#phrases,#phrases_1,#segment_1
+とにかくX,No matter what- X,,#phrases,#phrases_1,#segment_1
+XというよりY,Rather than X; it is more appropriate to describe it as Y,,#phrases,#phrases_1,#segment_1
+Xたものだ,used to X (recollect events that took place repeatedly or persisting situations of the past),,#phrases,#phrases_1,#segment_1
+～程度,about ~,～ていど,#segment_2,#reading_2,#suffix
+コピー,copy,,#segment_2,#reading_2
+採用する,adopt; accept; use,さいようする,#segment_2,#reading_2
+目次,table of contents,もくじ,#segment_2,#reading_2
+像,elephant,ぞう,#segment_2,#reading_2
+鼠,mouse,ねずみ,#segment_2,#reading_2
+きびきびと,briskly; energetically,,#segment_2,#reading_2,#adverb,#onomatopoeia
+機敏,agility,きびん,#segment_2,#reading_2
+ゆったりと,calmly; unhurriedly; leisurely,,#segment_2,#reading_2,#adverb,#onomatopoeia
+悠揚迫らぬ,with a serene air; in a clam manner,ゆうようせまらぬ,#segment_2,#reading_2
+ちょこまかする,move about; restlessly,,#segment_2,#reading_2
+足を運ぶ,go,あしをはこぶ,#segment_2,#reading_2
+古来,from ancient times,こらい,#segment_2,#reading_2
+ドキンドキンと,pound-pound; thump-thump; thumpity-thump,,#segment_2,#reading_2,#adverb,#onomatopoeia
+打つ,beat,うつ,#segment_2,#reading_2
+間隔,interval,かんかく,#segment_2,#reading_2
+計測する,measure,けいそくする,#segment_2,#reading_2
+各々,each; every,おのおの,#segment_2,#reading_2
+秤,scale,はかり,#segment_2,#reading_2
+パイと,carelessly (toss; chuck),,#segment_2,#reading_2,#adverb,#onomatopoeia
+体長,body length,たいちょう,#segment_2,#reading_2
+尻尾,(animal) tail,しっぽ,#segment_2,#reading_2
+計測値,measured value,けいそくち,#segment_2,#reading_2
+背伸びする,stretch oneself; stand on tiptoe,せのびする,#segment_2,#reading_2
+丸まる,arch one's back; curl up,まるまる,#segment_2,#reading_2
+浮かび上がる,come to the front,うかびあがる,#segment_2,#reading_2
+比例する,be in proportion; be proportional,ひれいする,#segment_2,#reading_2
+記号,sign; symbol; mark,きごう,#segment_2,#reading_2
+～乗,raise (a number) to the nth power (e.g. 二乗 = squared; 三乗 = cubed),～じょう,#segment_2,#reading_2,#suffix
+但し,but; however,ただし,#segment_2,#reading_2
+平方根,square root,へいほうこん,#segment_2,#reading_2
+計算,calculation,けいさん,#segment_2,#reading_2
+単純,simple,たんじゅん,#segment_2,#reading_2
+比例,proportion,ひれい,#segment_2,#reading_2
+緩やか,slow; gentle,ゆるやか,#segment_2,#reading_2
+速度,speed,そくど,#segment_2,#reading_2
+倍,double; twice; two times,ばい,#segment_2,#reading_2
+～倍,~ times; ~ fold (e.g. 二倍; _2x),～ばい,#segment_2,#reading_2,#suffix
+～近い,about ~; around ~,～ちかい,#segment_2,#reading_2,#suffix
+～則,law of ~; ~ law; counter for rules,そく,#segment_2,#reading_2,#suffix
+関わる,be concerned; take part in,かかわる,#segment_2,#reading_2
+現象,phenomenon,げんしょう,#segment_2,#reading_2
+当てはまる,apply; fit,あてはまる,#segment_2,#reading_2
+寿命,life; one's life span,じゅみょう,#segment_2,#reading_2
+性的に,sexually; (relating to) gender,せいてきに,#segment_2,#reading_2
+成熟する,mature,せいじゅくする,#segment_2,#reading_2
+要する,need; require,ようする,#segment_2,#reading_2
+胎内,in the (mother's) womb,たいない,#segment_2,#reading_2
+止まる,stay,とどまる,#segment_2,#reading_2
+活動,activity; action,かつどう,#segment_2,#reading_2
+息,breathing,いき,#segment_2,#reading_2
+じわっと,gradually; slowly,,#segment_2,#reading_2,#adverb,#onomatopoeia
+蠕動する,move peristaltically (like a worm),ぜんどうする,#segment_2,#reading_2
+血,blood,ち,#segment_2,#reading_2
+体内,in the body,たいない,#segment_2,#reading_2
+～巡,round ~; counter for cycles; rounds; circuits etc.,～じゅん,#segment_2,#reading_2,#suffix
+体外,from the body,たいがい,#segment_2,#reading_2
+異物,alien substance; foreign body,いぶつ,#segment_2,#reading_2
+再び,again; once more; a second time,ふたたび,#segment_2,#reading_2
+除去する,remove; get rid of,じょきょする,#segment_2,#reading_2
+タンパク質,protein,タンパクしつ,#segment_2,#reading_2
+合成する,synthesize,ごうせいする,#segment_2,#reading_2
+捉える,catch; grasp,とらえる,#segment_2,#reading_2
+鼓動,beating,こどう,#segment_2,#reading_2
+繰り返し,repetition,くりかえし,#segment_2,#reading_2
+出し入れする,take a thing in and out of,だしいれする,#segment_2,#reading_2
+血液内,in the blood,けつえきない,#segment_2,#reading_2
+排出する,excrete; discharge,はいしゅつする,#segment_2,#reading_2
+血液,blood,けつえき,#segment_2,#reading_2
+循環,circulation; cycle (v. circulate; go in cycles),じゅんかん,#segment_2,#reading_2
+関係する,be related to; have a connection with,かんけいする,#segment_2,#reading_2
+個体,individual; individual organism,こたい,#segment_2,#reading_2
+単位,unit; denomination,たんい,#segment_2,#reading_2
+～回転,~ rotation; ~revolution,～かいてん,#segment_2,#reading_2,#suffix
+くるくると,whir; whirl,,#segment_2,#reading_2,#adverb,#onomatopoeia
+素早い,quick; nimble; agile (adv. quickly; swifty; nimbly),すばやい,#segment_2,#reading_2
+回転する,turn around; rotate,かいてんする,#segment_2,#reading_2
+歯車,gear(wheel); cogwheel,はぐるま,#segment_2,#reading_2
+振り子,pendulum,ふりこ,#segment_2,#reading_2
+組み合わさる,join together; combine,くみあわさる,#segment_2,#reading_2
+コチコチと,tick-tock,,#segment_2,#reading_2,#adverb,#onomatopoeia
+刻み出す,record (the passing moments),きざみだす,#segment_2,#reading_2
+万物,all things (under the sun); all creation,ばんぶつ,#segment_2,#reading_2
+平等に,equally; evenly,びょうどうに,#segment_2,#reading_2
+非情に,mercilessly; cold-heartedly,ひじょうに,#segment_2,#reading_2
+駆り立てる,drive somebody to do; urge somebody on to do,かりたてる,#segment_2,#reading_2
+物理的,physical,ぶつりてき,#segment_2,#reading_2
+生理的,physiological,せいりてき,#segment_2,#reading_2
+心拍数,one's heart rate,しんぱくすう,#segment_2,#reading_2
+一定,regular; definite; fixed,いってい,#segment_2,#reading_2
+法則,a law,ほうそく,#segment_2,#reading_2
+割り算,division,わりざん,#segment_2,#reading_2
+吐く,breathe out; exhale,はく,#segment_2,#reading_2
+割る,divide,わる,#segment_2,#reading_2
+スーッと,sss; hiss,,#segment_2,#reading_2,#adverb,#onomatopoeia
+ハーッと,whew; phew,,#segment_2,#reading_2,#adverb,#onomatopoeia
+呼吸する,breathe,こきゅうする,#segment_2,#reading_2
+値,number; value; price,あたい,#segment_2,#reading_2
+拍動,pulsation,はくどう,#segment_2,#reading_2
+万の,all; whole,よろずの,#segment_2,#reading_2
+生き切る,live,いききる,#segment_2,#reading_2
+感覚,feeling; sense,かんかく,#segment_2,#reading_2
+存外,unexpectedly; against expectation,ぞんがい,#segment_2,#reading_2
+概念,concept; notion,がいねん,#segment_2,#reading_2
+信じ込む,believe without a doubt; accept something as true,しんじこむ,#segment_2,#reading_2,#complex_verbs
+常識,common sense; common knowledge,じょうしき,#segment_2,#reading_2
+覆す,explode (a blief); overthrow (a government); overturn; reverse (a decision); disprove (an established theory); overrule,くつがえす,#segment_2,#reading_2
+事柄,matter; affair,ことがら,#segment_2,#reading_2
+心拍,heartbeat,しんぱく,#segment_2,#reading_2
+無関係,unrelated; unconnected,むかんけい,#segment_2,#reading_2
+針,hand (of a clock); needle,はり,#segment_2,#reading_2
+ぐるりと,(turn) around,,#segment_2,#reading_2,#adverb,#onomatopoeia
+回数,number of times,かいすう,#segment_2,#reading_2
+呼吸数,breathing rate,こきゅうすう,#segment_2,#reading_2
+日頃,usually; always,ひごろ,#segment_2,#reading_2
+考え直す,rethink; reconsider,かんがえなおす,#segment_2,#reading_2
+つまりXということだ,In other words; it means that X,,#segment_2,#phrases,#phrases_2
+Xにしても,X- which is an illustration or example of the property under discussion,,#segment_2,#phrases,#phrases_2
+Xにおいて・Xにおいては,in X (1. domain of event or state under discussion; 2. (1) but in contrast with something else),,#segment_2,#phrases,#phrases_2
+Xに応じて,in accordance with X,Xにおうじて,#segment_2,#phrases,#phrases_2
+XとするとＹということになる,if X is true; then it follows that Y,,#segment_2,#phrases,#phrases_2
+XによらずY,regardless of X; Y,,#segment_2,#phrases,#phrases_2
+XといったってY,although it may be true that X; Y,,#segment_2,#phrases,#phrases_2
+X切る,finish Xing; to X completely,Xきる,#segment_2,#phrases,#phrases_2
+交流,(cultural) exchange; interchange; social networking,こうりゅう,#reading_3,#segment_3
+碁,go (board game),ご,#reading_3,#segment_3
+別称,another name; alias; pseudonym,べっしょう,#reading_3,#segment_3
+手談,talking with one's hands,しゅてん,#reading_3,#segment_3
+打ち下ろす,to bring down; to strike someone down,うちおろす,#reading_3,#segment_3
+一手,move; one move (in go; shogi; etc),いって,#reading_3,#segment_3
+雄弁,eloquence; oratory (public speaking),ゆうべん,#reading_3,#segment_3
+語る,tell; narrate,かたる,#reading_3,#segment_3
+深い,deep,ふかい,#reading_3,#segment_3
+愈々,more and more; increasingly,いよいよ,#reading_3,#segment_3
+奥深い,profound; deep,おくふかい,#reading_3,#segment_3
+世の中,world; life,よのなか,#reading_3,#segment_3
+往々にして,often; occasionally; frequently,おうおうにして,#reading_3,#segment_3
+ペラペラ,fluently; yik-yak; gabble,,#reading_3,#segment_3,#adverb,#onomatopoeia
+私共,we,わたくしども,#reading_3,#segment_3
+善くもまあ,how dare (you/they),よくもまあ,#reading_3,#segment_3
+気が散る,can't concentrate; be distracted,きがちる,#reading_3,#segment_3
+沈思黙考する,be deep in meditation; be lost deep in thought,ちんしもっこうする,#reading_3,#segment_3
+想,idea,そう,#reading_3,#segment_3
+成る,get; become,なる,#reading_3,#segment_3
+碁石,go stone (board game piece),ごいし,#reading_3,#segment_3
+～粒,~ stone(s); counter for small round objects (grains; seeds; pills; drops),～つぶ,#reading_3,#segment_3,#suffix
+摘む,to pinch,つまむ,#reading_3,#segment_3
+ガード下,under a railroad bridge,ガードした,#reading_3,#segment_3
+山奥,deep in the mountains,やまおく,#reading_3,#segment_3
+余り,(not) too much; excessively; too,あまり,#reading_3,#segment_3
+狂う,feel strange; (plan) goes wrong; to go mad,くるう,#reading_3,#segment_3
+仮の,temporary; provisional,かりの,#reading_3,#segment_3
+住居,residence; house,じゅうきょ,#reading_3,#segment_3
+語,word; term; language,ご,#reading_3,#segment_3
+身に染みる,feel deeply for; touch one's heart,みにしみる,#reading_3,#segment_3
+～手,~ move (of a board game),～て,#reading_3,#segment_3,#suffix
+弱る,be at a loss; have difficulty; have trouble,よわる,#reading_3,#segment_3
+にやにやする,grin to oneself,,#reading_3,#segment_3,#adverb,#onomatopoeia
+掻く,to scratch; to perspire,かく,#reading_3,#segment_3
+プロ,professional,,#reading_3,#segment_3
+恐ろしい,unthinkable; inconceivable,おそろしい,#reading_3,#segment_3
+ウーン,um; hmm,,#reading_3,#segment_3
+風情,appearance; taste; air (about someone?); elegance,ふぜい,#reading_3,#segment_3
+大威張り,boast; be proud; be haughty,おおいばり,#reading_3,#segment_3
+相手をする,play (a board game) with; to keep company; to entertain,あいてをする,#reading_3,#segment_3
+気心,thought; ideas; thinking; temper; disposition,きごころ,#reading_3,#segment_3
+時には,sometimes; occasionally,ときには,#reading_3,#segment_3
+其処ら,there,そこら,#reading_3,#segment_3
+～辺り,around ~; about ~,～あたり,#reading_3,#segment_3,#suffix
+易者,fortune-teller,えきしゃ,#reading_3,#segment_3
+余程,much; greatly; considerably,よほど,#reading_3,#segment_3
+アッという間に,in an instant; immediately,アッというまに,#reading_3,#segment_3
+知己,friend; acquaintance,ちき,#reading_3,#segment_3
+天与,(gift) from Heaven (adj. God-given),てんよ,#reading_3,#segment_3
+恩恵,blessing; gift; favour,おんけい,#reading_3,#segment_3
+誠に,truly; really; exactly,まことに,#reading_3,#segment_3
+～自体,(the thing) itself (e.g. 車自体 - the car itself),～じたい,#reading_3,#segment_3,#suffix
+X捲るY,to keep Xing intensively,XまくるY,#phrases,#phrases_3
+よくもXものだ,how can it be that X holds; it is surprising that X holds,,#phrases,#phrases_3
+Xとはいえ、Y,I admit that X holds; however Y is also true.,,#phrases,#phrases_3
+X所で、Y,Even if X takes place; X does not contribute to the result that one might want to have; hence Y,Xところで、Y,#phrases,#phrases_3
+Xらしい・Xらしく,typical of X / representing X; as typical of X,,#phrases,#phrases_3
+Xまい,First person: I determine not to do X. Otherwise: the speaker believes that they will not do X or are not X.,,#phrases,#phrases_3
+Xのと違う？,Isn't it the case that X?,Xのとちがう？,#phrases,#phrases_3
+～わい,Sentence-final particle used to express the speaker's surprise; corresponding to な although stereotypically used by elderly men.,,#phrases,#phrases_3,#suffix

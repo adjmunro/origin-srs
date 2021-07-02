@@ -1,0 +1,9 @@
+Xほど～｛もの・こと・Noun｝はない,Nothing is as ~ as X,#phrases,#phrases_1-1
+Xときたら、～,As for X; ~ (With negative feeling; used to complain "Oh come on! Do better!"),#phrases,#phrases_1-1
+XをはじめYまで,From X even to Y,#phrases,#phrases_1-1
+Xにわたり・Xにわたる,ranging over X; to range over X (X needs to have range),#phrases,#phrases_1-1
+＿ては～,To repeat the cycle of _ing and ~ing,#phrases,#phrases_1-1
+Xなんか,X; which the speaker considers to have very small value,#phrases,#phrases_1-1
+とにかく～,No matter what ~,#phrases,#phrases_1-1
+XというよりY,Rather than X; it is more appropriate to describe it as Y,#phrases,#phrases_1-1
+～たものだ,used to ~ (recollect events that took place repeatedly or persisting situations of the past),#phrases,#phrases_1-1

@@ -1,0 +1,91 @@
+駆け上がる,to run/dash/rush up (a hill; stairs etc.),かけあがる
+這い上がる,to creep/crawl up,はいあがる
+飛び上がる,to spring/jump/fly/skip up,とびあがる
+焼き上がる,(lit.)to fry up; to be baked(food)/printed(photos)/fired(pottery),やきあがる
+刷り上がる,to be fresh off the press; to be printed,すりあがる
+出来上がる,to be completed/finished/ready(e.g. to serve or eat),できあがる
+読み返す,to reread; to read again,よみかえす
+聞き返す,to listen again; to ask for a repeated explaination,ききかえす
+思い返す,to think again; rethink; change one's mind; think back upon,おもいかえす
+送り返す,to send back (hence to return or reply to a letter),おくりかえす
+押し返す,to force back; to jostle,おしかえす
+追い返す,to drive/turn/send away; repel; repulse,おいかえす
+押し込む,to push/cram/stuff/crowd into,おしこむ
+突き返す,to deal a blow in return; to hit/punch back,つきかえす
+突っ込む,to thrust (something) into (something); to cram/stuff/shove; to plunge/charge/rush/delve into ,つっこむ
+飛び込む,to jump/leap/plunge/dive/burst/barge into,とびこむ
+思い込む,to be convinced/assume/under the impression (that); to be obessed (with a thought or idea etc.),おもいこむ
+考え込む,to ponder/brood,かんがえこむ
+落ち込む,to feel down/sad/depressed,おちこむ
+書き上がる,to write up; to finish writing,かきあがる
+投げ返す,to throw back,なげかえす
+忍び込む,to sneak/creep/steal in (like a shinobi),しのびこむ
+取り留める,to narrowly escape (e.g. death); to hang onto (life),とりとめる
+繰り返す,to repeat; to do something over again,くりかえす
+～上がる,to ~(go) up; to finish ~,～あがる
+～返す,to repeat ~; to ~(return) back,～かえす
+～込む,to ~(go/put) into; to completely go into a state of ~,～こむ
+さっさと,immediately; promptly; quickly,
+てきぱき,briskly; quickly; promptly,
+きびきび,briskly; lively; energetically,
+どんどん,rapidly; steadily; quickly; continuously,
+ばりばり,(working) hard; actively; vigorously; energetically,
+ゆっくり,slowly; leisurely; unhurriedly; without haste,
+のろのろ,slowly; sluggishly,
+だらだら,slowly; idly; slovenly; leisurely; endlessly; lengthily,
+もたもた,slowly; inefficiently; tardily; dawdling,
+ぐずぐず,slowly; tardily; dawdling; lingering; hesitantly,
+すっかり,all; completely; totally; entirely; thoroughly,
+駆ける,to run/dash/race; to canter/gallop (on horseback); to advance(against one's enemy); to charge (on horseback),かける
+階段,stairs; stairway; staircase,かいだん
+這う,to creep; to crawl,はう
+落ちる,to fall; to drop,おちる
+自力,one's own strength; one's own efforts,じりき
+岸,bank (of a body of water); coast; shore,きし
+一命,(a) life; (a) command,いちめい
+飛ぶ,to fly; to soar; to jump/leap/spring,とぶ
+歓声,shout of joy; cheer,かんせい
+飛行機,aeroplane,ひこうき
+焼く,to burn; roast; broil; grill; bake; toast; barbecue; to fire (pottery etc.); to print (a photo); to burn (an optical disk); to tan,やく
+刷る,to print,する
+招待状,written invitation,しょうたいじょう
+出来る,to be able to do,できる
+動作,action; movements; behaviour,どうさ
+元に戻す,to go back to the start; to reset/restore,もとにもどす
+元,origin; source; basis; foundation; root; base; cause,もと
+戻す,to put back; to return/restore (a previous state),もどす
+届く,to reach; to arrive,とどく
+送る,to send (a thing); to dispatch; to transmit; to escort (a person somewhere),おくる
+出席,attendance; presence; appearance,しゅっせき
+押す,to push; to press,おす
+追う,to chase; to run after; to pursue; to follow; to drive out; to expel,おう
+謝る,to apologise,あやまる
+太郎,Taro (given name: plump son),たろう
+次郎,Jiro (given name: next son),じろう
+授業,lesson; class,じゅぎょう
+教室,classroom,きょうしつ
+向かう,to face; to head/go towards,むかう
+突く,to prick; stab; poke; prod; thrust; to prop oneself up with (a cane) i.e. press against (the floor etc.),つく
+危ない,dangerous; risky; hazardous; perilous; precarious,あぶない
+状態,state; condition; situation; circumstances,じょうたい
+準備する,to prepare; arrange,じゅんびする
+考える,to think (of/about/over); ponder; contemplate; reflect; meditate; consider,かんがえる
+難しい,difficult; hard; troublesome; complicated; serious,むずかしい
+振る,to wave; shake; swing,ふる
+振られる,to be given the cold shoulder; to be jilted/rejected/dumped,ふられる
+例,example; custom; habit; said; aforementioned; instance; case; illustration; precedent,れい
+参考,reference; consultation,さんこう
+適当,suitable; proper; appropriate; adequate; fit,てきとう
+加える,to add; append; annex; increase; gather (e.g. speed); inflict (damage); to sum up,くわえる
+適切な,pertinent; appropriate; adequate; relevance,てきせつな
+形,form; shape; figure; visage,かたち
+曲,composition; piece of music; song; track; tune; melody; air; enjoyment; fun; interest; pleasure,きょく
+兎,rabbit; hare,うさぎ
+転がる,to roll; tumble; roll over,ころがる
+投げる,to throw; hurl; fling; toss; cast; give up; abandon; throw away; cast (a glace; shadow; doubt etc.),なげる
+汚染,pollution; contamination,おせん
+水面,water's surface,すいめん
+浮かぶ,to float; be suspended; rise to the surface; emerge; loom (up); come to mind; have inspiration,うかぶ
+見つかる,to be found; discovered,みつかる
+忍ぶ,to conceal oneself; hide; endure; bear; stand; put up with,しのぶ
+やっと,at last; at length; barely; narrowly; just; by the skin of one's teeth,

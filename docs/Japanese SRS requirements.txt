@@ -1,0 +1,95 @@
+Make disambiguation cards when you struggle, not at the beginning
+
+Dynamic cards:
+	Start with kana -> kanji
+	When you get good, switch to kanji -> kana
+
+Use TTS
+Fill out the definitions with more and more Japanese definitions as you learn them (J-J dict) (phase in, not monolithic shift)
+Use TTS on japanese definitions
+Add pneumonics for kanji you struggle with
+
+YOU CAN STRUGGLE WITH DIFFERENT ELEMENTS; SOUNDS, KANA, KAJI, DIFFERENTIATION, DEFINITION, READING/SOUND SISTERS ETC
+
+Have kanji popups randomly throughout the day rather than studying in a block.
+Phone notifications with two options? multichoice? meaning? reading? remember, yes or no?
+
+If the dictionary says 'usually written in kana' you probably shouldn't be learning the kanji (although note this can mean anywhere between 50-100% of the time)
+
+The cards are not your masters, but your servants and you can change anything about them to suit your strategy
+
+Online sanseido J-J dictionary is recommended (discontinue, check later). Simple and concise.
+Kana (Kanji)
+<Word-Type> Definition. \/ Extra Info
+
+Word Types
+五	godan verb
+上 / 下 ichidan verb (one is used for preceding え-row and the other い-row [not sure which])
+形 	keiyoushi (adjective) [kanji: katachi]
+ダ 	adjectival noun (super noun), because it can only take couplar だ・な etc
+スル	suru-noun	(super noun), a noun that can be used verbally if we add suru to it
+副	fukushi (adverb, super noun, usu. noun), can modify a verb or adjective [kanji: fuku]
+名	meishi (regular noun, usu. additionally) [kanji: mei]
+
+Definition notes
+こと will be on the end of a lot of definitions. The 'thing' of doing some action.
+
+Extra Info
+Inverted triangle will give us a short phrase or compound word in which the word we are defining is commonly used.
+Eg souji + ~ki = soujiki (vacuum cleaner)
+（類）Type or general family of word in which it belongs; 清掃 cleaning-related words (could be used for tags)
+
+Another example:
+kana		kanji	alternate kanji (you should probably just add whichever you encountered in the wild)
+こううん　	[幸運] 	{好運}
+<名・ダ>	運が良いこと。（対）不運・悲運
+^Type
+Can be used an an adjectival noun OR regular noun
+eg by a lucky circumstance/luckily OR good luck
+
+		^Def
+The thing of "Luck is/being good".
+
+				^
+tai (short for taigi), means opposite/ antonym: fuun (bad/ no luck), hiun (bad luck or misfortune)
+
+So if you're defining atsui, defining it as tai-samui (opposite of cold) is a very helpful definition (can also mean like other counterpart, such as mother and father, so not strictly opposites)
+
+
+Anki is to pin words in place between encounters, you actually LEARN words through emersion not study
+
+You don't need to be able to handwrite kanji. You just need to be able to read and recognise them! (In the digital age, you will almost never need to write them by hand, so why would you spend HUNDREDS OF HOURS to learn a skill you will almost never use (and when you do, you can just look up the proper strokes in msot cases))
+
+LEARN WORDS NOT KANJI
+
+Probably shouldn't be learning complicated words like 'pancreas' because we're trying to increase our input (ie learn the words that will be used frequently in the near future). Dont bother learning specialised words that you'll only be able to use once a year or so - leave them for advanced learning later
+
+
+One-deck method to minimise study and maximise living
+Studying is just scaffolding to help you live the language and enjoy using it.
+
+Why study?
+1) need to understand the structure
+2) we need vocabulary
+3) need kanji
+
+Singular deck only for entirety from beginner to no longer needing to study (advanced)
+Front: Kanji
+Back: Hirigana, audio, definition, sentence, audio of J-J def/sentence, your dynamic stratch pad for mnemonics, kanji break-down etc
+Dynamic cards that you can change as you need, but also strongly audio-based, so you can often just listen to the back for J-J defs etc
+
+We put all the weight of acquiring japanese into actually using japanese. Thus, put in as little prep as you can get away with and spend more time learning through emersion.
+
+Studying japanese isn't measured in years, its  studied in hours. You need to focus on massive input.
+
+
+
+
+
+
+
+
+
+
+
+
