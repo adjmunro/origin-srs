@@ -1,4 +1,4 @@
-with open('./all_heisig_6th_edition_kanji.txt', 'r', encoding='utf-8') as f:
+with open('all_heisig_6th_edition_kanji.txt', 'r', encoding='utf-8') as f:
     kanji = f.read().split()
 
 print(kanji)

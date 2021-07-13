@@ -229,6 +229,6 @@ class Adder:
 
 
 if __name__ == "__main__":
-    from app.src.test.python import Test
+    from src.tests import Test
 
     Test.run()

@@ -294,10 +294,3 @@ class SRSApp(Tk):
 
         with open(f'{self.path}/json/config.json', 'w') as f:
             f.write(json.dumps(self.config))
-
-
-if __name__ == "__main__":
-    #     import Test
-    #     Test.run()
-    app = SRSApp()
-    app.mainloop()

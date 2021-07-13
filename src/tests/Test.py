@@ -3,7 +3,7 @@ import shutil
 
 import SRSApp
 
-path = '../../../../test'
+path = ''
 
 test_words = """月曜日,monday,げつようび,#weekdays
 火曜日,tuesday,かようび,#weekdays,#ka
