@@ -1,3 +1,5 @@
+# Code is currently broken due to file structure changes. Expect fixes to imports and files paths soon.
+
 # origin-srs
 The original Japanese Spaced Repetition System (SRS) Flashcard App created in Python.
 
